@@ -459,6 +459,11 @@
 - [rootdirective-sec/CVE-2026-56011-Lab](https://github.com/rootdirective-sec/CVE-2026-56011-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-56011-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-56011-Lab">
 
 ---
+## CVE-2026-55726 ()
+> 
+- [MichaelAdamGroberman/CVE-2026-55726](https://github.com/MichaelAdamGroberman/CVE-2026-55726)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-55726">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-55726">
+
+---
 ## CVE-2026-55584 ()
 > 
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
@@ -520,6 +525,11 @@
 ## CVE-2026-54596 ()
 > 
 - [iltosec/CVE-2026-54596](https://github.com/iltosec/CVE-2026-54596)	<img alt="forks" src="https://img.shields.io/github/forks/iltosec/CVE-2026-54596">	<img alt="stars" src="https://img.shields.io/github/stars/iltosec/CVE-2026-54596">
+
+---
+## CVE-2026-54477 ()
+> 
+- [MichaelAdamGroberman/CVE-2026-54477](https://github.com/MichaelAdamGroberman/CVE-2026-54477)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-54477">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-54477">
 
 ---
 ## CVE-2026-54420 ()
@@ -642,6 +652,11 @@
 ## CVE-2026-5229 ()
 > 
 - [xxconi/CVE-2026-5229](https://github.com/xxconi/CVE-2026-5229)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5229">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5229">
+
+---
+## CVE-2026-52217 ()
+> 
+- [teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR](https://github.com/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">
 
 ---
 ## CVE-2026-5203 ()
@@ -5947,6 +5962,11 @@
 > 
 - [Nxploited/CVE-2026-1405](https://github.com/Nxploited/CVE-2026-1405)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1405">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1405">
 - [AnggaTechI/Mass-Scanner-CVE-2026-1405](https://github.com/AnggaTechI/Mass-Scanner-CVE-2026-1405)	<img alt="forks" src="https://img.shields.io/github/forks/AnggaTechI/Mass-Scanner-CVE-2026-1405">	<img alt="stars" src="https://img.shields.io/github/stars/AnggaTechI/Mass-Scanner-CVE-2026-1405">
+
+---
+## CVE-2026-13768 ()
+> 
+- [MichaelAdamGroberman/CVE-2026-13768](https://github.com/MichaelAdamGroberman/CVE-2026-13768)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-13768">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-13768">
 
 ---
 ## CVE-2026-1375 ()

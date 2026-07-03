@@ -795,6 +795,11 @@
 - [byte16384/CVE-2026-49492-PoC](https://github.com/byte16384/CVE-2026-49492-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/byte16384/CVE-2026-49492-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/byte16384/CVE-2026-49492-PoC">
 
 ---
+## CVE-2026-49468 ()
+> 
+- [BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass](https://github.com/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-49468-LiteLLM-Auth-Bypass">
+
+---
 ## CVE-2026-49413 ()
 > 
 - [ii4gsp/CVE-2026-49413](https://github.com/ii4gsp/CVE-2026-49413)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2026-49413">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2026-49413">
@@ -2112,6 +2117,11 @@
 ## CVE-2026-39292 ()
 > 
 - [krishnadevpmelevila/CVE-2026-39292](https://github.com/krishnadevpmelevila/CVE-2026-39292)	<img alt="forks" src="https://img.shields.io/github/forks/krishnadevpmelevila/CVE-2026-39292">	<img alt="stars" src="https://img.shields.io/github/stars/krishnadevpmelevila/CVE-2026-39292">
+
+---
+## CVE-2026-39275 ()
+> 
+- [Securify-AI/CVE-2026-39275](https://github.com/Securify-AI/CVE-2026-39275)	<img alt="forks" src="https://img.shields.io/github/forks/Securify-AI/CVE-2026-39275">	<img alt="stars" src="https://img.shields.io/github/stars/Securify-AI/CVE-2026-39275">
 
 ---
 ## CVE-2026-39259 ()
@@ -3907,6 +3917,11 @@
 - [c0gnit00/CVE-2026-29000](https://github.com/c0gnit00/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-29000">
 
 ---
+## CVE-2026-28995 ()
+> 
+- [Robertmak2014-sudow/CVE-2026-28995](https://github.com/Robertmak2014-sudow/CVE-2026-28995)	<img alt="forks" src="https://img.shields.io/github/forks/Robertmak2014-sudow/CVE-2026-28995">	<img alt="stars" src="https://img.shields.io/github/stars/Robertmak2014-sudow/CVE-2026-28995">
+
+---
 ## CVE-2026-28992 ()
 > 
 - [zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions](https://github.com/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/CVE-2026-28992-IOHIDFamily-FastPathUserClient-Race-Conditions">
@@ -4082,6 +4097,11 @@
 ## CVE-2026-27636 ()
 > 
 - [rav1010/CVE-2026-27636](https://github.com/rav1010/CVE-2026-27636)	<img alt="forks" src="https://img.shields.io/github/forks/rav1010/CVE-2026-27636">	<img alt="stars" src="https://img.shields.io/github/stars/rav1010/CVE-2026-27636">
+
+---
+## CVE-2026-27626 ()
+> 
+- [0xh7ml/CVE-2026-27626-PoC](https://github.com/0xh7ml/CVE-2026-27626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xh7ml/CVE-2026-27626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xh7ml/CVE-2026-27626-PoC">
 
 ---
 ## CVE-2026-27621 ()

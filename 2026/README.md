@@ -6334,6 +6334,7 @@
 - [O99099O/By-Poloss..-..CVE-2026-0920](https://github.com/O99099O/By-Poloss..-..CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-0920">
 - [John-doe-code-a11/CVE-2026-0920](https://github.com/John-doe-code-a11/CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/John-doe-code-a11/CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/John-doe-code-a11/CVE-2026-0920">
 - [Nxploited/CVE-2026-0920-](https://github.com/Nxploited/CVE-2026-0920-)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-0920-">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-0920-">
+- [Dx3iZ/CVE-2026-0920](https://github.com/Dx3iZ/CVE-2026-0920)	<img alt="forks" src="https://img.shields.io/github/forks/Dx3iZ/CVE-2026-0920">	<img alt="stars" src="https://img.shields.io/github/stars/Dx3iZ/CVE-2026-0920">
 
 ---
 ## CVE-2026-0915 ()

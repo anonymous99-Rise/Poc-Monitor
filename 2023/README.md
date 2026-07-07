@@ -1309,6 +1309,11 @@ Users are recommended to upgrade to version 18.12.10
 - [Shcesama/cve-2023-4863-analysis](https://github.com/Shcesama/cve-2023-4863-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Shcesama/cve-2023-4863-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Shcesama/cve-2023-4863-analysis">
 
 ---
+## CVE-2023-4861 ()
+> 
+- [nomaisthere/CVE-2023-4861-PoC](https://github.com/nomaisthere/CVE-2023-4861-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2023-4861-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2023-4861-PoC">
+
+---
 ## CVE-2023-48292 ()
 > 
 - [Mehran-Seifalinia/CVE-2023-48292](https://github.com/Mehran-Seifalinia/CVE-2023-48292)	<img alt="forks" src="https://img.shields.io/github/forks/Mehran-Seifalinia/CVE-2023-48292">	<img alt="stars" src="https://img.shields.io/github/stars/Mehran-Seifalinia/CVE-2023-48292">
@@ -8926,6 +8931,16 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 ## CVE-2023-0099 (2023-02-13T15:15:00)
 > The Simple URLs WordPress plugin before 115 does not sanitise and escape some parameters before outputting them back in some pages, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin.
 - [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-0099-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-0099-exploit">
+
+---
+## CVE-2023-0090 ()
+> 
+- [ly1g3/proofpoint-CVE-2023-0090](https://github.com/ly1g3/proofpoint-CVE-2023-0090)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/proofpoint-CVE-2023-0090">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/proofpoint-CVE-2023-0090">
+
+---
+## CVE-2023-0089 ()
+> 
+- [ly1g3/proofpoint-CVE-2023-0089](https://github.com/ly1g3/proofpoint-CVE-2023-0089)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/proofpoint-CVE-2023-0089">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/proofpoint-CVE-2023-0089">
 
 ---
 ## CVE-2023-0050 (2023-03-09T22:15:00)

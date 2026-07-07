@@ -679,6 +679,7 @@
 ## CVE-2026-53359 ()
 > 
 - [HORKimhab/CVE-2026-53359](https://github.com/HORKimhab/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-53359">
+- [0xBlackash/CVE-2026-53359](https://github.com/0xBlackash/CVE-2026-53359)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53359">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53359">
 
 ---
 ## CVE-2026-53075 ()
@@ -6165,6 +6166,11 @@
 - [dasokkk/CVE-2026-14459-14460-pardus-software](https://github.com/dasokkk/CVE-2026-14459-14460-pardus-software)	<img alt="forks" src="https://img.shields.io/github/forks/dasokkk/CVE-2026-14459-14460-pardus-software">	<img alt="stars" src="https://img.shields.io/github/stars/dasokkk/CVE-2026-14459-14460-pardus-software">
 
 ---
+## CVE-2026-14382 ()
+> 
+- [jaf0rk/CVE-2026-14382](https://github.com/jaf0rk/CVE-2026-14382)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-14382">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-14382">
+
+---
 ## CVE-2026-1434 ()
 > 
 - [lukasz-rybak/CVE-2026-1434](https://github.com/lukasz-rybak/CVE-2026-1434)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-1434">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-1434">
@@ -6173,6 +6179,11 @@
 ## CVE-2026-1424 ()
 > 
 - [rsecroot/CVE-2026-1424](https://github.com/rsecroot/CVE-2026-1424)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2026-1424">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2026-1424">
+
+---
+## CVE-2026-14191 ()
+> 
+- [HORKimhab/CVE-2026-14191](https://github.com/HORKimhab/CVE-2026-14191)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-14191">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-14191">
 
 ---
 ## CVE-2026-1405 ()

@@ -2662,6 +2662,7 @@
 ## CVE-2026-35204 ()
 > 
 - [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
+- [h3ck13r/CVE-2026-35204](https://github.com/h3ck13r/CVE-2026-35204)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2026-35204">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2026-35204">
 
 ---
 ## CVE-2026-35196 ()
@@ -3744,6 +3745,7 @@
 - [kinryulabs/rootpacket-cve-2026-31431](https://github.com/kinryulabs/rootpacket-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/kinryulabs/rootpacket-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/kinryulabs/rootpacket-cve-2026-31431">
 - [SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431">
 - [jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-">
+- [aettern/copyfrag-fuse](https://github.com/aettern/copyfrag-fuse)	<img alt="forks" src="https://img.shields.io/github/forks/aettern/copyfrag-fuse">	<img alt="stars" src="https://img.shields.io/github/stars/aettern/copyfrag-fuse">
 
 ---
 ## CVE-2026-3143 ()
@@ -4340,6 +4342,11 @@
 > 
 - [RootAid/CVE-2026-27507](https://github.com/RootAid/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-27507">
 - [NetVanguard-cmd/CVE-2026-27507](https://github.com/NetVanguard-cmd/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-27507">
+
+---
+## CVE-2026-27495 ()
+> 
+- [DexSemon/CVE-2026-27495](https://github.com/DexSemon/CVE-2026-27495)	<img alt="forks" src="https://img.shields.io/github/forks/DexSemon/CVE-2026-27495">	<img alt="stars" src="https://img.shields.io/github/stars/DexSemon/CVE-2026-27495">
 
 ---
 ## CVE-2026-27483 ()

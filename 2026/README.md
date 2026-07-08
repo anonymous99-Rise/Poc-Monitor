@@ -2136,6 +2136,11 @@
 - [u1tr0nex/cve-2026-40072-ssrf-lab](https://github.com/u1tr0nex/cve-2026-40072-ssrf-lab)	<img alt="forks" src="https://img.shields.io/github/forks/u1tr0nex/cve-2026-40072-ssrf-lab">	<img alt="stars" src="https://img.shields.io/github/stars/u1tr0nex/cve-2026-40072-ssrf-lab">
 
 ---
+## CVE-2026-40047 ()
+> 
+- [oscerd/CVE-2026-40047](https://github.com/oscerd/CVE-2026-40047)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40047">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40047">
+
+---
 ## CVE-2026-40022 ()
 > 
 - [oscerd/CVE-2026-40022](https://github.com/oscerd/CVE-2026-40022)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40022">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40022">
@@ -4749,6 +4754,7 @@
 ---
 ## CVE-2026-25262 ()
 > 
+- [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)	<img alt="forks" src="https://img.shields.io/github/forks/shurikgo/cve-2026-25262-sm8450-research">	<img alt="stars" src="https://img.shields.io/github/stars/shurikgo/cve-2026-25262-sm8450-research">
 - [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)	<img alt="forks" src="https://img.shields.io/github/forks/shurikgo/cve-2026-25262-sm8450-research">	<img alt="stars" src="https://img.shields.io/github/stars/shurikgo/cve-2026-25262-sm8450-research">
 
 ---

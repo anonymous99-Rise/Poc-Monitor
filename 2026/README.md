@@ -567,6 +567,16 @@
 - [iltosec/CVE-2026-54596](https://github.com/iltosec/CVE-2026-54596)	<img alt="forks" src="https://img.shields.io/github/forks/iltosec/CVE-2026-54596">	<img alt="stars" src="https://img.shields.io/github/stars/iltosec/CVE-2026-54596">
 
 ---
+## CVE-2026-54520 ()
+> 
+- [chaitanyagarware/CVE-2026-54520](https://github.com/chaitanyagarware/CVE-2026-54520)	<img alt="forks" src="https://img.shields.io/github/forks/chaitanyagarware/CVE-2026-54520">	<img alt="stars" src="https://img.shields.io/github/stars/chaitanyagarware/CVE-2026-54520">
+
+---
+## CVE-2026-54519 ()
+> 
+- [chaitanyagarware/CVE-2026-54519](https://github.com/chaitanyagarware/CVE-2026-54519)	<img alt="forks" src="https://img.shields.io/github/forks/chaitanyagarware/CVE-2026-54519">	<img alt="stars" src="https://img.shields.io/github/stars/chaitanyagarware/CVE-2026-54519">
+
+---
 ## CVE-2026-54477 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-54477](https://github.com/MichaelAdamGroberman/CVE-2026-54477)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-54477">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-54477">
@@ -661,6 +671,11 @@
 ## CVE-2026-53582 ()
 > 
 - [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
+
+---
+## CVE-2026-53571 ()
+> 
+- [TazmiDev/CVE-2026-53571](https://github.com/TazmiDev/CVE-2026-53571)	<img alt="forks" src="https://img.shields.io/github/forks/TazmiDev/CVE-2026-53571">	<img alt="stars" src="https://img.shields.io/github/stars/TazmiDev/CVE-2026-53571">
 
 ---
 ## CVE-2026-53519 ()
@@ -1547,6 +1562,7 @@
 - [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusM/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusM/CVE-2026-43499">
 - [HORKimhab/CVE-2026-43499](https://github.com/HORKimhab/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-43499">
 - [0xBlackash/CVE-2026-43499](https://github.com/0xBlackash/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43499">
+- [tc3650/CVE-2026-43499-armv7](https://github.com/tc3650/CVE-2026-43499-armv7)	<img alt="forks" src="https://img.shields.io/github/forks/tc3650/CVE-2026-43499-armv7">	<img alt="stars" src="https://img.shields.io/github/stars/tc3650/CVE-2026-43499-armv7">
 
 ---
 ## CVE-2026-43494 ()

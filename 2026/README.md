@@ -2078,6 +2078,7 @@
 - [CrimsonKingfisher/CVE-2026-41089-245](https://github.com/CrimsonKingfisher/CVE-2026-41089-245)	<img alt="forks" src="https://img.shields.io/github/forks/CrimsonKingfisher/CVE-2026-41089-245">	<img alt="stars" src="https://img.shields.io/github/stars/CrimsonKingfisher/CVE-2026-41089-245">
 - [Powderbatpatch/CVE-2026-41089-397](https://github.com/Powderbatpatch/CVE-2026-41089-397)	<img alt="forks" src="https://img.shields.io/github/forks/Powderbatpatch/CVE-2026-41089-397">	<img alt="stars" src="https://img.shields.io/github/stars/Powderbatpatch/CVE-2026-41089-397">
 - [jenniferreire26/CVE-2026-41089](https://github.com/jenniferreire26/CVE-2026-41089)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2026-41089">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2026-41089">
+- [phil-dirt/CVE-2026-41089-LongLogon](https://github.com/phil-dirt/CVE-2026-41089-LongLogon)	<img alt="forks" src="https://img.shields.io/github/forks/phil-dirt/CVE-2026-41089-LongLogon">	<img alt="stars" src="https://img.shields.io/github/stars/phil-dirt/CVE-2026-41089-LongLogon">
 
 ---
 ## CVE-2026-41044 ()

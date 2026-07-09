@@ -3430,6 +3430,8 @@
 - [B1gN0Se/PwnKit_CVE-2021-4034](https://github.com/B1gN0Se/PwnKit_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/PwnKit_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/PwnKit_CVE-2021-4034">
 - [ropydev/CVE-2021-4034-PwnKit](https://github.com/ropydev/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ropydev/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ropydev/CVE-2021-4034-PwnKit">
 - [krleejihyeong/WHS4_CVE-2021-4034](https://github.com/krleejihyeong/WHS4_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/krleejihyeong/WHS4_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/krleejihyeong/WHS4_CVE-2021-4034">
+- [jmg0929/CVE-2021-40346](https://github.com/jmg0929/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/jmg0929/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/jmg0929/CVE-2021-40346">
+- [rusakalimantan/PwnKit-CVE-2021-4034](https://github.com/rusakalimantan/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rusakalimantan/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rusakalimantan/PwnKit-CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)

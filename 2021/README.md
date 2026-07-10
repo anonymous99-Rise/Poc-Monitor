@@ -3432,6 +3432,7 @@
 - [krleejihyeong/WHS4_CVE-2021-4034](https://github.com/krleejihyeong/WHS4_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/krleejihyeong/WHS4_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/krleejihyeong/WHS4_CVE-2021-4034">
 - [jmg0929/CVE-2021-40346](https://github.com/jmg0929/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/jmg0929/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/jmg0929/CVE-2021-40346">
 - [rusakalimantan/PwnKit-CVE-2021-4034](https://github.com/rusakalimantan/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rusakalimantan/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rusakalimantan/PwnKit-CVE-2021-4034">
+- [mac3d0/CVE-2021-4034-pwnkit](https://github.com/mac3d0/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/mac3d0/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/mac3d0/CVE-2021-4034-pwnkit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -7283,6 +7284,11 @@
 ## CVE-2021-28378 ()
 > 
 - [pandatix/CVE-2021-28378](https://github.com/pandatix/CVE-2021-28378)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2021-28378">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2021-28378">
+
+---
+## CVE-2021-28235 ()
+> 
+- [h3ck13r/CVE-2021-28235](https://github.com/h3ck13r/CVE-2021-28235)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2021-28235">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2021-28235">
 
 ---
 ## CVE-2021-28169 (2021-06-09T02:15:00)

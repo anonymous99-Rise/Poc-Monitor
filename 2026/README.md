@@ -2467,6 +2467,7 @@
 - [diamorphine666/CVE-2026-38526-Exploit](https://github.com/diamorphine666/CVE-2026-38526-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2026-38526-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2026-38526-Exploit">
 - [mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Nexus-Findings-Report">
 - [b0nyo/CVE-2026-38526](https://github.com/b0nyo/CVE-2026-38526)	<img alt="forks" src="https://img.shields.io/github/forks/b0nyo/CVE-2026-38526">	<img alt="stars" src="https://img.shields.io/github/stars/b0nyo/CVE-2026-38526">
+- [Resolvdd/CVE-2026-38526-PoC-htb-nexus-](https://github.com/Resolvdd/CVE-2026-38526-PoC-htb-nexus-)	<img alt="forks" src="https://img.shields.io/github/forks/Resolvdd/CVE-2026-38526-PoC-htb-nexus-">	<img alt="stars" src="https://img.shields.io/github/stars/Resolvdd/CVE-2026-38526-PoC-htb-nexus-">
 
 ---
 ## CVE-2026-3847 ()
@@ -4186,6 +4187,7 @@
 - [gregk4sec/cve-2026-29145](https://github.com/gregk4sec/cve-2026-29145)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-29145">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-29145">
 - [sancliffe/CVE-2026-29145-Tester](https://github.com/sancliffe/CVE-2026-29145-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/sancliffe/CVE-2026-29145-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/sancliffe/CVE-2026-29145-Tester">
 - [gkdgkd123/CVE-2026-29145-Everything](https://github.com/gkdgkd123/CVE-2026-29145-Everything)	<img alt="forks" src="https://img.shields.io/github/forks/gkdgkd123/CVE-2026-29145-Everything">	<img alt="stars" src="https://img.shields.io/github/stars/gkdgkd123/CVE-2026-29145-Everything">
+- [Chenjp/CVE-2026-29145-Tester](https://github.com/Chenjp/CVE-2026-29145-Tester)	<img alt="forks" src="https://img.shields.io/github/forks/Chenjp/CVE-2026-29145-Tester">	<img alt="stars" src="https://img.shields.io/github/stars/Chenjp/CVE-2026-29145-Tester">
 
 ---
 ## CVE-2026-29116 ()
@@ -6328,6 +6330,11 @@
 > 
 - [ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation](https://github.com/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1529-PoC-keycloak-unauthorized-registration-via-improper-invitation-token-validation">
 - [0x240x23elu/CVE-2026-1529](https://github.com/0x240x23elu/CVE-2026-1529)	<img alt="forks" src="https://img.shields.io/github/forks/0x240x23elu/CVE-2026-1529">	<img alt="stars" src="https://img.shields.io/github/stars/0x240x23elu/CVE-2026-1529">
+
+---
+## CVE-2026-15282 ()
+> 
+- [shinthink/CVE-2026-15282](https://github.com/shinthink/CVE-2026-15282)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2026-15282">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2026-15282">
 
 ---
 ## CVE-2026-1522 ()

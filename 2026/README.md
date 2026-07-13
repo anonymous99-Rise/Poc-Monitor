@@ -1278,6 +1278,16 @@
 - [BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection](https://github.com/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-46490-samlify-SAML-Attribute-Injection">
 
 ---
+## CVE-2026-46454 ()
+> 
+- [oscerd/CVE-2026-46454](https://github.com/oscerd/CVE-2026-46454)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46454">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46454">
+
+---
+## CVE-2026-46453 ()
+> 
+- [oscerd/CVE-2026-46453](https://github.com/oscerd/CVE-2026-46453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46453">
+
+---
 ## CVE-2026-46395 ()
 > 
 - [shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak](https://github.com/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-challa/CVE-2026-46395-haxcms-hmac-key-leak">
@@ -5641,6 +5651,11 @@
 ## CVE-2026-23416 ()
 > 
 - [bluedragonsecurity/CVE-2026-23416-POC](https://github.com/bluedragonsecurity/CVE-2026-23416-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-23416-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-23416-POC">
+
+---
+## CVE-2026-23415 ()
+> 
+- [addman2/uaf-exploit-cve-2026-23415](https://github.com/addman2/uaf-exploit-cve-2026-23415)	<img alt="forks" src="https://img.shields.io/github/forks/addman2/uaf-exploit-cve-2026-23415">	<img alt="stars" src="https://img.shields.io/github/stars/addman2/uaf-exploit-cve-2026-23415">
 
 ---
 ## CVE-2026-23398 ()

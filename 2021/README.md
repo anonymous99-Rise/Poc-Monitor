@@ -1160,6 +1160,7 @@
 - [Codepumpking/log4shell-poc](https://github.com/Codepumpking/log4shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Codepumpking/log4shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Codepumpking/log4shell-poc">
 - [jomjosh17/Log4Shell-CVE-2021-44228-](https://github.com/jomjosh17/Log4Shell-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/jomjosh17/Log4Shell-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/jomjosh17/Log4Shell-CVE-2021-44228-">
 - [horrister/log4shell-cve-2021-44228](https://github.com/horrister/log4shell-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/log4shell-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/log4shell-cve-2021-44228">
+- [Ricardo354/homelab-CVE-2021-44228](https://github.com/Ricardo354/homelab-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Ricardo354/homelab-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Ricardo354/homelab-CVE-2021-44228">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)

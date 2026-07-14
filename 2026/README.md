@@ -4740,6 +4740,16 @@
 - [lorenzobruno7/CVE-2026-26744](https://github.com/lorenzobruno7/CVE-2026-26744)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzobruno7/CVE-2026-26744">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzobruno7/CVE-2026-26744">
 
 ---
+## CVE-2026-26719 ()
+> 
+- [Ibrahim-Sartawi/CVE-2026-26719](https://github.com/Ibrahim-Sartawi/CVE-2026-26719)	<img alt="forks" src="https://img.shields.io/github/forks/Ibrahim-Sartawi/CVE-2026-26719">	<img alt="stars" src="https://img.shields.io/github/stars/Ibrahim-Sartawi/CVE-2026-26719">
+
+---
+## CVE-2026-26718 ()
+> 
+- [Ibrahim-Sartawi/CVE-2026-26718](https://github.com/Ibrahim-Sartawi/CVE-2026-26718)	<img alt="forks" src="https://img.shields.io/github/forks/Ibrahim-Sartawi/CVE-2026-26718">	<img alt="stars" src="https://img.shields.io/github/stars/Ibrahim-Sartawi/CVE-2026-26718">
+
+---
 ## CVE-2026-26717 ()
 > 
 - [Rickidevs/CVE-2026-26717](https://github.com/Rickidevs/CVE-2026-26717)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-26717">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-26717">

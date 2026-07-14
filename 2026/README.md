@@ -1277,6 +1277,11 @@
 - [lwd3c/CVE-2026-46586](https://github.com/lwd3c/CVE-2026-46586)	<img alt="forks" src="https://img.shields.io/github/forks/lwd3c/CVE-2026-46586">	<img alt="stars" src="https://img.shields.io/github/stars/lwd3c/CVE-2026-46586">
 
 ---
+## CVE-2026-46584 ()
+> 
+- [oscerd/CVE-2026-46584](https://github.com/oscerd/CVE-2026-46584)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46584">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46584">
+
+---
 ## CVE-2026-46558 ()
 > 
 - [0xmrma/CVE-2026-46558](https://github.com/0xmrma/CVE-2026-46558)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-46558">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-46558">

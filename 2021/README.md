@@ -1175,6 +1175,7 @@
 - [neilc1964techned/craready-test-java-vulns](https://github.com/neilc1964techned/craready-test-java-vulns)	<img alt="forks" src="https://img.shields.io/github/forks/neilc1964techned/craready-test-java-vulns">	<img alt="stars" src="https://img.shields.io/github/stars/neilc1964techned/craready-test-java-vulns">
 - [sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-)	<img alt="forks" src="https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-">	<img alt="stars" src="https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-">
 - [tieupham267/log4shell-coraza](https://github.com/tieupham267/log4shell-coraza)	<img alt="forks" src="https://img.shields.io/github/forks/tieupham267/log4shell-coraza">	<img alt="stars" src="https://img.shields.io/github/stars/tieupham267/log4shell-coraza">
+- [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)

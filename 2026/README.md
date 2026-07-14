@@ -553,6 +553,11 @@
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
 
 ---
+## CVE-2026-55494 ()
+> 
+- [4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE](https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE">
+
+---
 ## CVE-2026-55488 ()
 > 
 - [thecodeb0ss/CVE-2026-55488](https://github.com/thecodeb0ss/CVE-2026-55488)	<img alt="forks" src="https://img.shields.io/github/forks/thecodeb0ss/CVE-2026-55488">	<img alt="stars" src="https://img.shields.io/github/stars/thecodeb0ss/CVE-2026-55488">
@@ -1703,6 +1708,7 @@
 - [Yakayna/SpringPeace](https://github.com/Yakayna/SpringPeace)	<img alt="forks" src="https://img.shields.io/github/forks/Yakayna/SpringPeace">	<img alt="stars" src="https://img.shields.io/github/stars/Yakayna/SpringPeace">
 - [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/Thiasap/oppo-pgem10-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/Thiasap/oppo-pgem10-ghostlock">
 - [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/CakesTwix/Android-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/CakesTwix/Android-CVE-2026-43499">
+- [Bartixxx32/CVE-2026-43499-OnePlus15](https://github.com/Bartixxx32/CVE-2026-43499-OnePlus15)	<img alt="forks" src="https://img.shields.io/github/forks/Bartixxx32/CVE-2026-43499-OnePlus15">	<img alt="stars" src="https://img.shields.io/github/stars/Bartixxx32/CVE-2026-43499-OnePlus15">
 
 ---
 ## CVE-2026-43494 ()

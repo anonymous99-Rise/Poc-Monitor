@@ -909,6 +909,11 @@
 - [bolubey/CVE-2026-50751](https://github.com/bolubey/CVE-2026-50751)	<img alt="forks" src="https://img.shields.io/github/forks/bolubey/CVE-2026-50751">	<img alt="stars" src="https://img.shields.io/github/stars/bolubey/CVE-2026-50751">
 
 ---
+## CVE-2026-50657 ()
+> 
+- [NeseOS-Corp/CVE-2026-50657](https://github.com/NeseOS-Corp/CVE-2026-50657)	<img alt="forks" src="https://img.shields.io/github/forks/NeseOS-Corp/CVE-2026-50657">	<img alt="stars" src="https://img.shields.io/github/stars/NeseOS-Corp/CVE-2026-50657">
+
+---
 ## CVE-2026-50656 ()
 > 
 - [0xBlackash/CVE-2026-50656](https://github.com/0xBlackash/CVE-2026-50656)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-50656">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-50656">
@@ -4633,6 +4638,7 @@
 ## CVE-2026-27483 ()
 > 
 - [thewhiteh4t/cve-2026-27483](https://github.com/thewhiteh4t/cve-2026-27483)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2026-27483">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2026-27483">
+- [nabhan-mohy/cve-2026-27483-lab](https://github.com/nabhan-mohy/cve-2026-27483-lab)	<img alt="forks" src="https://img.shields.io/github/forks/nabhan-mohy/cve-2026-27483-lab">	<img alt="stars" src="https://img.shields.io/github/stars/nabhan-mohy/cve-2026-27483-lab">
 
 ---
 ## CVE-2026-27470 ()

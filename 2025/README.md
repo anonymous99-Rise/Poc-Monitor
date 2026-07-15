@@ -2624,6 +2624,7 @@
 ## CVE-2025-60357 ()
 > 
 - [NyaMeeEain/CVE-2025-60357](https://github.com/NyaMeeEain/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/NyaMeeEain/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/NyaMeeEain/CVE-2025-60357">
+- [Nullbyte3117/CVE-2025-60357](https://github.com/Nullbyte3117/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/Nullbyte3117/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/Nullbyte3117/CVE-2025-60357">
 
 ---
 ## CVE-2025-60349 ()

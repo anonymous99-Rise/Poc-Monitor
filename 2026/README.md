@@ -554,6 +554,11 @@
 - [mirackayikci/CVE-2026-55584](https://github.com/mirackayikci/CVE-2026-55584)	<img alt="forks" src="https://img.shields.io/github/forks/mirackayikci/CVE-2026-55584">	<img alt="stars" src="https://img.shields.io/github/stars/mirackayikci/CVE-2026-55584">
 
 ---
+## CVE-2026-55511 ()
+> 
+- [junfuture1103/CVE-2026-55511](https://github.com/junfuture1103/CVE-2026-55511)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2026-55511">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2026-55511">
+
+---
 ## CVE-2026-55494 ()
 > 
 - [4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE](https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE">

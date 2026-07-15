@@ -2621,6 +2621,11 @@
 - [ajansha/CVE-2025-60374](https://github.com/ajansha/CVE-2025-60374)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60374">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60374">
 
 ---
+## CVE-2025-60357 ()
+> 
+- [NyaMeeEain/CVE-2025-60357](https://github.com/NyaMeeEain/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/NyaMeeEain/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/NyaMeeEain/CVE-2025-60357">
+
+---
 ## CVE-2025-60349 ()
 > 
 - [djackreuter/CVE-2025-60349](https://github.com/djackreuter/CVE-2025-60349)	<img alt="forks" src="https://img.shields.io/github/forks/djackreuter/CVE-2025-60349">	<img alt="stars" src="https://img.shields.io/github/stars/djackreuter/CVE-2025-60349">
@@ -8552,6 +8557,7 @@
 - [0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Jeff/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Jeff/CVE-2025-27591">
 - [Stp1t/CVE-2025-27591](https://github.com/Stp1t/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Stp1t/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Stp1t/CVE-2025-27591">
 - [rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE">
+- [MoTechStore/CVE-2025-27591-PoC](https://github.com/MoTechStore/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MoTechStore/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MoTechStore/CVE-2025-27591-PoC">
 
 ---
 ## CVE-2025-27590 ()

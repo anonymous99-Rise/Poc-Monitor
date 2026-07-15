@@ -3281,6 +3281,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [mananjain61/PHP-CGI-INTERNAL-RCE](https://github.com/mananjain61/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mananjain61/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mananjain61/PHP-CGI-INTERNAL-RCE">
 - [rayngnpc/CVE-2024-4577-rayng](https://github.com/rayngnpc/CVE-2024-4577-rayng)	<img alt="forks" src="https://img.shields.io/github/forks/rayngnpc/CVE-2024-4577-rayng">	<img alt="stars" src="https://img.shields.io/github/stars/rayngnpc/CVE-2024-4577-rayng">
 - [faizdotid/CVE-2024-4577](https://github.com/faizdotid/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/faizdotid/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/faizdotid/CVE-2024-4577">
+- [Kanak-CypherX/cve-2024-4577-lab](https://github.com/Kanak-CypherX/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kanak-CypherX/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kanak-CypherX/cve-2024-4577-lab">
 
 ---
 ## CVE-2024-4573 ()

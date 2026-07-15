@@ -455,6 +455,11 @@
 - [Crihexe/v8-poc-CVE-2026-5865](https://github.com/Crihexe/v8-poc-CVE-2026-5865)	<img alt="forks" src="https://img.shields.io/github/forks/Crihexe/v8-poc-CVE-2026-5865">	<img alt="stars" src="https://img.shields.io/github/stars/Crihexe/v8-poc-CVE-2026-5865">
 
 ---
+## CVE-2026-58635 ()
+> 
+- [DavidCarliez/CVE-2026-58635-PoC](https://github.com/DavidCarliez/CVE-2026-58635-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2026-58635-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2026-58635-PoC">
+
+---
 ## CVE-2026-58138 ()
 > 
 - [BiiTts/CVE-2026-58138-Conductor-Unauth-RCE](https://github.com/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/CVE-2026-58138-Conductor-Unauth-RCE">
@@ -838,6 +843,11 @@
 ## CVE-2026-52217 ()
 > 
 - [teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR](https://github.com/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR">
+
+---
+## CVE-2026-52199 ()
+> 
+- [lamaper/CVE-2026-52199](https://github.com/lamaper/CVE-2026-52199)	<img alt="forks" src="https://img.shields.io/github/forks/lamaper/CVE-2026-52199">	<img alt="stars" src="https://img.shields.io/github/stars/lamaper/CVE-2026-52199">
 
 ---
 ## CVE-2026-5203 ()
@@ -1303,6 +1313,11 @@
 ## CVE-2026-4660 ()
 > 
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
+
+---
+## CVE-2026-46590 ()
+> 
+- [oscerd/CVE-2026-46590](https://github.com/oscerd/CVE-2026-46590)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-46590">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-46590">
 
 ---
 ## CVE-2026-46588 ()

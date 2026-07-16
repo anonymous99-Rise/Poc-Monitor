@@ -98,6 +98,7 @@
 ## CVE-2026-8838 ()
 > 
 - [Maxime288/CVE-2026-8838-RCE](https://github.com/Maxime288/CVE-2026-8838-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/CVE-2026-8838-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/CVE-2026-8838-RCE">
+- [Sana-404/CVE-2026-8838-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8838-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8838-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8838-Mitigation-and-Detection">
 
 ---
 ## CVE-2026-8836 ()
@@ -146,6 +147,11 @@
 ## CVE-2026-8389 ()
 > 
 - [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)	<img alt="forks" src="https://img.shields.io/github/forks/crixpwn/CVE-2026-8389">	<img alt="stars" src="https://img.shields.io/github/stars/crixpwn/CVE-2026-8389">
+
+---
+## CVE-2026-8388 ()
+> 
+- [Sana-404/CVE-2026-8388-Mitigation-and-Detection](https://github.com/Sana-404/CVE-2026-8388-Mitigation-and-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Sana-404/CVE-2026-8388-Mitigation-and-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Sana-404/CVE-2026-8388-Mitigation-and-Detection">
 
 ---
 ## CVE-2026-8380 ()

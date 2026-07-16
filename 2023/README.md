@@ -4179,6 +4179,7 @@ prior to
 - [ISH2YU/CVE-2023-36802](https://github.com/ISH2YU/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2023-36802">
 - [sahil-mpatki/CVE-2023-36802-MSKSSRV](https://github.com/sahil-mpatki/CVE-2023-36802-MSKSSRV)	<img alt="forks" src="https://img.shields.io/github/forks/sahil-mpatki/CVE-2023-36802-MSKSSRV">	<img alt="stars" src="https://img.shields.io/github/stars/sahil-mpatki/CVE-2023-36802-MSKSSRV">
 - [rahul0xkr/Reproducing-CVE-2023-36802](https://github.com/rahul0xkr/Reproducing-CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Reproducing-CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Reproducing-CVE-2023-36802">
+- [nhh9905/CVE-2023-36802](https://github.com/nhh9905/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2023-36802">
 
 ---
 ## CVE-2023-36761 (2023-09-12T17:15:00)
@@ -6975,6 +6976,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [sergiovks/CVE-2023-25690-exploit](https://github.com/sergiovks/CVE-2023-25690-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2023-25690-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2023-25690-exploit">
 - [g4nkd/CVE-2023-25690-PoC](https://github.com/g4nkd/CVE-2023-25690-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-25690-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-25690-PoC">
 - [oOCyginXOo/CVE-2023-25690-POC](https://github.com/oOCyginXOo/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/oOCyginXOo/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/oOCyginXOo/CVE-2023-25690-POC">
+- [giordy0424/CVE-2023-25690_lab](https://github.com/giordy0424/CVE-2023-25690_lab)	<img alt="forks" src="https://img.shields.io/github/forks/giordy0424/CVE-2023-25690_lab">	<img alt="stars" src="https://img.shields.io/github/stars/giordy0424/CVE-2023-25690_lab">
 
 ---
 ## CVE-2023-25610 ()

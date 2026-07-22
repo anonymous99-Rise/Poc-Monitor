@@ -513,6 +513,7 @@
 ## CVE-2018-5333 (2018-01-11T07:29:00)
 > In the Linux kernel through 4.14.13, the rds_cmsg_atomic function in net/rds/rdma.c mishandles cases where page pinning fails or an invalid address is supplied, leading to an rds_atomic_free_op NULL pointer dereference.
 - [hoanganh2k/cve-2018-5333](https://github.com/hoanganh2k/cve-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/hoanganh2k/cve-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/hoanganh2k/cve-2018-5333">
+- [WhatsWrongAndWhy/CVE-2018-5333](https://github.com/WhatsWrongAndWhy/CVE-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-5333">
 
 ---
 ## CVE-2018-5332 (2018-01-11T07:29:00)
@@ -633,6 +634,11 @@
 ## CVE-2018-3277 (2018-10-17T01:31:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: InnoDB). Supported versions that are affected are 5.7.23 and prior and 8.0.12 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2018-3277](https://github.com/Live-Hack-CVE/CVE-2018-3277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3277">
+
+---
+## CVE-2018-3214 ()
+> 
+- [YumeSecurity/CVE-2018-3214](https://github.com/YumeSecurity/CVE-2018-3214)	<img alt="forks" src="https://img.shields.io/github/forks/YumeSecurity/CVE-2018-3214">	<img alt="stars" src="https://img.shields.io/github/stars/YumeSecurity/CVE-2018-3214">
 
 ---
 ## CVE-2018-3200 (2018-10-17T01:31:00)
@@ -1164,6 +1170,13 @@
 ## CVE-2018-19052 (2018-11-07T05:29:00)
 > An issue was discovered in mod_alias_physical_handler in mod_alias.c in lighttpd before 1.4.50. There is potential ../ path traversal of a single directory above an alias target, with a specific mod_alias configuration where the matched alias lacks a trailing '/' character, but the alias target filesystem path does have a trailing '/' character.
 - [iveresk/cve-2018-19052](https://github.com/iveresk/cve-2018-19052)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2018-19052">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2018-19052">
+
+---
+## CVE-2018-18955 ()
+> 
+- [WhatsWrongAndWhy/CVE-2018-18955](https://github.com/WhatsWrongAndWhy/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-18955">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [scheatkode/CVE-2018-18955](https://github.com/scheatkode/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/scheatkode/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/scheatkode/CVE-2018-18955">
 
 ---
 ## CVE-2018-18912 ()

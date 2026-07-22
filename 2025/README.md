@@ -1767,6 +1767,10 @@
 ## CVE-2025-64512 ()
 > 
 - [luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/CVE-2025-64512-Polyglot-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/CVE-2025-64512-Polyglot-PoC">
+- [MehdiChyhab/CVE-2025-64512-exploit](https://github.com/MehdiChyhab/CVE-2025-64512-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiChyhab/CVE-2025-64512-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiChyhab/CVE-2025-64512-exploit">
+- [BardLaudian/CVE-2025-64512](https://github.com/BardLaudian/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2025-64512">
+- [joeack123/PoC-for-CVE-2025-64512](https://github.com/joeack123/PoC-for-CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/joeack123/PoC-for-CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/joeack123/PoC-for-CVE-2025-64512">
+- [matesz44/CVE-2025-64512](https://github.com/matesz44/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-64512">
 
 ---
 ## CVE-2025-64500 ()
@@ -10927,6 +10931,11 @@
 ## CVE-2025-10742 ()
 > 
 - [netspecters/CVE-2025-10742](https://github.com/netspecters/CVE-2025-10742)	<img alt="forks" src="https://img.shields.io/github/forks/netspecters/CVE-2025-10742">	<img alt="stars" src="https://img.shields.io/github/stars/netspecters/CVE-2025-10742">
+
+---
+## CVE-2025-10725 ()
+> 
+- [kaiokmo/cve-2025-10725-eda-demo](https://github.com/kaiokmo/cve-2025-10725-eda-demo)	<img alt="forks" src="https://img.shields.io/github/forks/kaiokmo/cve-2025-10725-eda-demo">	<img alt="stars" src="https://img.shields.io/github/stars/kaiokmo/cve-2025-10725-eda-demo">
 
 ---
 ## CVE-2025-10720 ()

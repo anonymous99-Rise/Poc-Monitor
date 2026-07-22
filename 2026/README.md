@@ -11,6 +11,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9973 ()
+> 
+- [jaf0rk/CVE-2026-9973-exploit](https://github.com/jaf0rk/CVE-2026-9973-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jaf0rk/CVE-2026-9973-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jaf0rk/CVE-2026-9973-exploit">
+
+---
 ## CVE-2026-9789 ()
 > 
 - [ugvxb/CVE-2026-9789](https://github.com/ugvxb/CVE-2026-9789)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9789">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9789">
@@ -337,6 +342,11 @@
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 
 ---
+## CVE-2026-6875 ()
+> 
+- [tc4dy/CVE-2026-6875-PoC-Exploit](https://github.com/tc4dy/CVE-2026-6875-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-6875-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-6875-PoC-Exploit">
+
+---
 ## CVE-2026-6857 ()
 > 
 - [HORKimhab/CVE-2026-6857](https://github.com/HORKimhab/CVE-2026-6857)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-6857">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-6857">
@@ -501,6 +511,11 @@
 ## CVE-2026-57821 ()
 > 
 - [tc4dy/CVE-2026-57821-PoC-Exploit](https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-57821-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-57821-PoC-Exploit">
+
+---
+## CVE-2026-57588 ()
+> 
+- [CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC](https://github.com/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2026-57588-Nessus-XML-Import-SQL-Injection-PoC">
 
 ---
 ## CVE-2026-57517 ()
@@ -786,6 +801,11 @@
 - [xxconi/CVE-2026-5364](https://github.com/xxconi/CVE-2026-5364)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-5364">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-5364">
 
 ---
+## CVE-2026-53595 ()
+> 
+- [0xdak/CVE-2026-53595_exploit](https://github.com/0xdak/CVE-2026-53595_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-53595_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-53595_exploit">
+
+---
 ## CVE-2026-53582 ()
 > 
 - [eev4n/CVE-2026-53582](https://github.com/eev4n/CVE-2026-53582)	<img alt="forks" src="https://img.shields.io/github/forks/eev4n/CVE-2026-53582">	<img alt="stars" src="https://img.shields.io/github/stars/eev4n/CVE-2026-53582">
@@ -977,6 +997,11 @@
 ## CVE-2026-5059 ()
 > 
 - [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
+
+---
+## CVE-2026-50522 ()
+> 
+- [HORKimhab/CVE-2026-50522](https://github.com/HORKimhab/CVE-2026-50522)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-50522">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-50522">
 
 ---
 ## CVE-2026-50507 ()
@@ -1597,6 +1622,7 @@
 - [everest90909/YellowKey-WinRE-Remediation](https://github.com/everest90909/YellowKey-WinRE-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/everest90909/YellowKey-WinRE-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/everest90909/YellowKey-WinRE-Remediation">
 - [bjbakker1984/Yellowkey-mitigation](https://github.com/bjbakker1984/Yellowkey-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/bjbakker1984/Yellowkey-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/bjbakker1984/Yellowkey-mitigation">
 - [ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune](https://github.com/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune)	<img alt="forks" src="https://img.shields.io/github/forks/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">	<img alt="stars" src="https://img.shields.io/github/stars/ChanderManiPandey2022/YellowKey-BitLocker-Bypass-CVE-2026-45585-Detect-Fix-Automatically-via-Microsoft-Intune">
+- [boobalover7/YellowKey-Bitlocker-CVE-2026-45585](https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585)	<img alt="forks" src="https://img.shields.io/github/forks/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">	<img alt="stars" src="https://img.shields.io/github/stars/boobalover7/YellowKey-Bitlocker-CVE-2026-45585">
 
 ---
 ## CVE-2026-45584 ()
@@ -2085,6 +2111,11 @@
 ## CVE-2026-4255 ()
 > 
 - [Ard33/CVE-2026-4255](https://github.com/Ard33/CVE-2026-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Ard33/CVE-2026-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Ard33/CVE-2026-4255">
+
+---
+## CVE-2026-42533 ()
+> 
+- [suominen/CVE-2026-42533](https://github.com/suominen/CVE-2026-42533)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-42533">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-42533">
 
 ---
 ## CVE-2026-42530 ()
@@ -5153,6 +5184,11 @@
 - [DyniePro/CVE-2026-25643](https://github.com/DyniePro/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/DyniePro/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/DyniePro/CVE-2026-25643">
 
 ---
+## CVE-2026-25632 ()
+> 
+- [lazarus0x1337/CVE-2026-25632](https://github.com/lazarus0x1337/CVE-2026-25632)	<img alt="forks" src="https://img.shields.io/github/forks/lazarus0x1337/CVE-2026-25632">	<img alt="stars" src="https://img.shields.io/github/stars/lazarus0x1337/CVE-2026-25632">
+
+---
 ## CVE-2026-25604 ()
 > 
 - [John-Jung/CVE-2026-25604-PoC](https://github.com/John-Jung/CVE-2026-25604-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-25604-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-25604-PoC">
@@ -6532,6 +6568,11 @@
 ## CVE-2026-20180 ()
 > 
 - [kaleth4/CVE-2026-20180](https://github.com/kaleth4/CVE-2026-20180)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20180">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20180">
+
+---
+## CVE-2026-20169 ()
+> 
+- [gigachadusers/CVE-2026-20169](https://github.com/gigachadusers/CVE-2026-20169)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/CVE-2026-20169">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/CVE-2026-20169">
 
 ---
 ## CVE-2026-20131 ()

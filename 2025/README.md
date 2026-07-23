@@ -101,6 +101,7 @@
 - [pulsecipher/CVE-2025-9242](https://github.com/pulsecipher/CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-9242">
 - [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
 - [B1ack4sh/Blackash-CVE-2025-9242](https://github.com/B1ack4sh/Blackash-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-9242">
+- [UnusualGiraffe/Mass-Scanner-CVE-2025-9242](https://github.com/UnusualGiraffe/Mass-Scanner-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/Mass-Scanner-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/Mass-Scanner-CVE-2025-9242">
 
 ---
 ## CVE-2025-9223 ()
@@ -7620,6 +7621,8 @@
 - [cd-ratel/CVE-2025-32432](https://github.com/cd-ratel/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/cd-ratel/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/cd-ratel/CVE-2025-32432">
 - [n40y/PoC_CVE-2025-32432](https://github.com/n40y/PoC_CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/n40y/PoC_CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/n40y/PoC_CVE-2025-32432">
 - [theeomega/CVE-2025-32432-POC](https://github.com/theeomega/CVE-2025-32432-POC)	<img alt="forks" src="https://img.shields.io/github/forks/theeomega/CVE-2025-32432-POC">	<img alt="stars" src="https://img.shields.io/github/stars/theeomega/CVE-2025-32432-POC">
+- [c0gnit00/CVE-2025-32432](https://github.com/c0gnit00/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2025-32432">
+- [Cosm3No1de/htb-orion-writeup](https://github.com/Cosm3No1de/htb-orion-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/htb-orion-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/htb-orion-writeup">
 
 ---
 ## CVE-2025-3243 ()

@@ -951,6 +951,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [OHHDamnBRO/Noregressh](https://github.com/OHHDamnBRO/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OHHDamnBRO/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OHHDamnBRO/Noregressh">
 - [kaleth4/CVE-2024-6387](https://github.com/kaleth4/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2024-6387">
 - [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
+- [al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis](https://github.com/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)

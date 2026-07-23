@@ -1222,6 +1222,11 @@
 - [izxci/CVE-2026-49104-](https://github.com/izxci/CVE-2026-49104-)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-49104-">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-49104-">
 
 ---
+## CVE-2026-49099 ()
+> 
+- [oscerd/CVE-2026-49099](https://github.com/oscerd/CVE-2026-49099)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49099">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49099">
+
+---
 ## CVE-2026-49098 ()
 > 
 - [oscerd/CVE-2026-49098](https://github.com/oscerd/CVE-2026-49098)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-49098">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-49098">

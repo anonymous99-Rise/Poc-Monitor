@@ -2633,6 +2633,7 @@
 - [johnwickakash12/CVE-2021-41773](https://github.com/johnwickakash12/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/johnwickakash12/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/johnwickakash12/CVE-2021-41773">
 - [lheeeesoo/Apache-CVE-2021-41773](https://github.com/lheeeesoo/Apache-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/lheeeesoo/Apache-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/lheeeesoo/Apache-CVE-2021-41773">
 - [0xrogg/CVE-2021-41773](https://github.com/0xrogg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xrogg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xrogg/CVE-2021-41773">
+- [gagaltotal/CVE-2021-41773-apache](https://github.com/gagaltotal/CVE-2021-41773-apache)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2021-41773-apache">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2021-41773-apache">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)

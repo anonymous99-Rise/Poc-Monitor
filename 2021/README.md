@@ -1176,6 +1176,7 @@
 - [sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-)	<img alt="forks" src="https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-">	<img alt="stars" src="https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-">
 - [tieupham267/log4shell-coraza](https://github.com/tieupham267/log4shell-coraza)	<img alt="forks" src="https://img.shields.io/github/forks/tieupham267/log4shell-coraza">	<img alt="stars" src="https://img.shields.io/github/stars/tieupham267/log4shell-coraza">
 - [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
+- [razureink/cve-2021-44228-log4shell_rce_reproduction](https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2021-44228-log4shell_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2021-44228-log4shell_rce_reproduction">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)

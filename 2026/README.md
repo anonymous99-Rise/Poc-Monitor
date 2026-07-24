@@ -1062,6 +1062,11 @@
 - [0xBlackash/CVE-2026-5173](https://github.com/0xBlackash/CVE-2026-5173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5173">
 
 ---
+## CVE-2026-51592 ()
+> 
+- [ardakrg/CVE-2026-51592](https://github.com/ardakrg/CVE-2026-51592)	<img alt="forks" src="https://img.shields.io/github/forks/ardakrg/CVE-2026-51592">	<img alt="stars" src="https://img.shields.io/github/stars/ardakrg/CVE-2026-51592">
+
+---
 ## CVE-2026-5118 ()
 > 
 - [zycoder0day/CVE-2026-5118](https://github.com/zycoder0day/CVE-2026-5118)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-5118">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-5118">

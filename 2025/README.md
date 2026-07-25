@@ -107,6 +107,7 @@
 - [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
 - [B1ack4sh/Blackash-CVE-2025-9242](https://github.com/B1ack4sh/Blackash-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-9242">
 - [UnusualGiraffe/Mass-Scanner-CVE-2025-9242](https://github.com/UnusualGiraffe/Mass-Scanner-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/Mass-Scanner-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/Mass-Scanner-CVE-2025-9242">
+- [UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner](https://github.com/UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner">
 
 ---
 ## CVE-2025-9223 ()

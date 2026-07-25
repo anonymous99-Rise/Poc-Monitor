@@ -476,7 +476,7 @@
 - [ASYquan/wp2shell-cf-WAF-bypass](https://github.com/ASYquan/wp2shell-cf-WAF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ASYquan/wp2shell-cf-WAF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ASYquan/wp2shell-cf-WAF-bypass">
 - [SentinelXofficial/sxwp2shell](https://github.com/SentinelXofficial/sxwp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/SentinelXofficial/sxwp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/SentinelXofficial/sxwp2shell">
 - [AkbarWiraN/holy-wp2shell](https://github.com/AkbarWiraN/holy-wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/holy-wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/holy-wp2shell">
-- [wn-iqbal/wp2shell](https://github.com/wn-iqbal/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/wn-iqbal/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/wn-iqbal/wp2shell">
+- [Iqbalx7/wp2shell](https://github.com/Iqbalx7/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Iqbalx7/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Iqbalx7/wp2shell">
 - [Crypto-Cat/wp2shell](https://github.com/Crypto-Cat/wp2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Crypto-Cat/wp2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Crypto-Cat/wp2shell">
 - [0xjessie21/wp2shell-checker](https://github.com/0xjessie21/wp2shell-checker)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/wp2shell-checker">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/wp2shell-checker">
 - [joaovicdev/EXPLOIT-CVE-2026-63030](https://github.com/joaovicdev/EXPLOIT-CVE-2026-63030)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-63030">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-63030">
@@ -544,6 +544,7 @@
 - [imbas007/POC-CVE-2026-60206](https://github.com/imbas007/POC-CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2026-60206">
 - [0xBlackash/CVE-2026-60206](https://github.com/0xBlackash/CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-60206">
 - [tc4dy/CVE-2026-60206-PoC-Exploit](https://github.com/tc4dy/CVE-2026-60206-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-60206-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-60206-PoC-Exploit">
+- [Debajyoti0-0/CVE-2026-60206](https://github.com/Debajyoti0-0/CVE-2026-60206)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-60206">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-60206">
 
 ---
 ## CVE-2026-60137 ()
@@ -4978,6 +4979,7 @@
 > 
 - [JohannesLks/CVE-2026-27654](https://github.com/JohannesLks/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-27654">
 - [dead-lamer/CVE-2026-27654](https://github.com/dead-lamer/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/dead-lamer/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/dead-lamer/CVE-2026-27654">
+- [Debajyoti0-0/CVE-2026-27654-PoC](https://github.com/Debajyoti0-0/CVE-2026-27654-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Debajyoti0-0/CVE-2026-27654-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Debajyoti0-0/CVE-2026-27654-PoC">
 
 ---
 ## CVE-2026-27641 ()
@@ -6912,6 +6914,11 @@
 ## CVE-2026-1729 ()
 > 
 - [ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass](https://github.com/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">
+
+---
+## CVE-2026-16723 ()
+> 
+- [HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-16723">
 
 ---
 ## CVE-2026-1668 ()

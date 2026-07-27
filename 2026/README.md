@@ -430,6 +430,11 @@
 - [swornim619/CVE-2026-65650](https://github.com/swornim619/CVE-2026-65650)	<img alt="forks" src="https://img.shields.io/github/forks/swornim619/CVE-2026-65650">	<img alt="stars" src="https://img.shields.io/github/stars/swornim619/CVE-2026-65650">
 
 ---
+## CVE-2026-65008 ()
+> 
+- [zer0dayf/CVE-2026-65008](https://github.com/zer0dayf/CVE-2026-65008)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-65008">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-65008">
+
+---
 ## CVE-2026-64600 ()
 > 
 - [0xBlackash/CVE-2026-64600](https://github.com/0xBlackash/CVE-2026-64600)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-64600">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-64600">
@@ -623,6 +628,11 @@
 ## CVE-2026-58057 ()
 > 
 - [CerberusMrXi/Flowise-CVE-2026-58057-exploit](https://github.com/CerberusMrXi/Flowise-CVE-2026-58057-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Flowise-CVE-2026-58057-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Flowise-CVE-2026-58057-exploit">
+
+---
+## CVE-2026-57973 ()
+> 
+- [riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973)	<img alt="forks" src="https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973">	<img alt="stars" src="https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973">
 
 ---
 ## CVE-2026-57850 ()
@@ -2191,6 +2201,7 @@
 - [No-22-Github/UnPlus](https://github.com/No-22-Github/UnPlus)	<img alt="forks" src="https://img.shields.io/github/forks/No-22-Github/UnPlus">	<img alt="stars" src="https://img.shields.io/github/stars/No-22-Github/UnPlus">
 - [woshimaniubi8/CVE-2026-43499-root-KernelSU](https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU)	<img alt="forks" src="https://img.shields.io/github/forks/woshimaniubi8/CVE-2026-43499-root-KernelSU">	<img alt="stars" src="https://img.shields.io/github/stars/woshimaniubi8/CVE-2026-43499-root-KernelSU">
 - [fusiondrive/CVE-2026-43499-S24U](https://github.com/fusiondrive/CVE-2026-43499-S24U)	<img alt="forks" src="https://img.shields.io/github/forks/fusiondrive/CVE-2026-43499-S24U">	<img alt="stars" src="https://img.shields.io/github/stars/fusiondrive/CVE-2026-43499-S24U">
+- [dnlid/CVE-2026-43499](https://github.com/dnlid/CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/dnlid/CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/dnlid/CVE-2026-43499">
 
 ---
 ## CVE-2026-43494 ()
@@ -7067,6 +7078,11 @@
 ## CVE-2026-1522 ()
 > 
 - [O99099O/By-Poloss..-..CVE-2026-1522](https://github.com/O99099O/By-Poloss..-..CVE-2026-1522)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-1522">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-1522">
+
+---
+## CVE-2026-15013 ()
+> 
+- [zer0dayf/CVE-2026-15013](https://github.com/zer0dayf/CVE-2026-15013)	<img alt="forks" src="https://img.shields.io/github/forks/zer0dayf/CVE-2026-15013">	<img alt="stars" src="https://img.shields.io/github/stars/zer0dayf/CVE-2026-15013">
 
 ---
 ## CVE-2026-14960 ()

@@ -395,6 +395,21 @@
 - [xxconi/CVE-2026-6741](https://github.com/xxconi/CVE-2026-6741)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-6741">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-6741">
 
 ---
+## CVE-2026-66731 ()
+> 
+- [theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash](https://github.com/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66731-Negative-Chunk-Size-Parsing-Causes-Memory-Corruption-leading-to-Server-Crash">
+
+---
+## CVE-2026-66730 ()
+> 
+- [theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser](https://github.com/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66730-Infinite-Loop-DoS-in-facil.io-MIME-Parser">
+
+---
+## CVE-2026-66729 ()
+> 
+- [theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash](https://github.com/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash)	<img alt="forks" src="https://img.shields.io/github/forks/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash">	<img alt="stars" src="https://img.shields.io/github/stars/theopaid/CVE-2026-66729-Out-of-Bounds-Read-in-facil.io-MIME-Parser-leads-to-Server-Crash">
+
+---
 ## CVE-2026-666 ()
 > 
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">

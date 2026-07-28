@@ -7100,6 +7100,7 @@
 ## CVE-2026-16232 ()
 > 
 - [sfewer-r7/CVE-2026-16232](https://github.com/sfewer-r7/CVE-2026-16232)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-16232">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-16232">
+- [WadesWeaponShed/Check-Point-Trusted-Access-Review](https://github.com/WadesWeaponShed/Check-Point-Trusted-Access-Review)	<img alt="forks" src="https://img.shields.io/github/forks/WadesWeaponShed/Check-Point-Trusted-Access-Review">	<img alt="stars" src="https://img.shields.io/github/stars/WadesWeaponShed/Check-Point-Trusted-Access-Review">
 
 ---
 ## CVE-2026-15981 ()

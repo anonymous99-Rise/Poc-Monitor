@@ -32,6 +32,7 @@
 - [futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/futurezayka/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/futurezayka/CVE-2011-3192">
 - [Karma4488/cve-2011-3192](https://github.com/Karma4488/cve-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/Karma4488/cve-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/Karma4488/cve-2011-3192">
 - [bluedragonsecurity/CVE-2011-3192-apache-exploit](https://github.com/bluedragonsecurity/CVE-2011-3192-apache-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2011-3192-apache-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2011-3192-apache-exploit">
+- [Xinjis/Apache_ByteRange_DoS_cve_2011_3192](https://github.com/Xinjis/Apache_ByteRange_DoS_cve_2011_3192)	<img alt="forks" src="https://img.shields.io/github/forks/Xinjis/Apache_ByteRange_DoS_cve_2011_3192">	<img alt="stars" src="https://img.shields.io/github/stars/Xinjis/Apache_ByteRange_DoS_cve_2011_3192">
 
 ---
 ## CVE-2011-2732 ()

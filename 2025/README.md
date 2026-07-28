@@ -529,6 +529,11 @@
 - [r2c-CSE/multer-sca-rule-test_cve-2025-7338](https://github.com/r2c-CSE/multer-sca-rule-test_cve-2025-7338)	<img alt="forks" src="https://img.shields.io/github/forks/r2c-CSE/multer-sca-rule-test_cve-2025-7338">	<img alt="stars" src="https://img.shields.io/github/stars/r2c-CSE/multer-sca-rule-test_cve-2025-7338">
 
 ---
+## CVE-2025-71389 ()
+> 
+- [0xdak/CVE-2025-71389_exploit](https://github.com/0xdak/CVE-2025-71389_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2025-71389_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2025-71389_exploit">
+
+---
 ## CVE-2025-71243 ()
 > 
 - [Chocapikk/CVE-2025-71243](https://github.com/Chocapikk/CVE-2025-71243)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-71243">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-71243">
@@ -2693,6 +2698,10 @@
 - [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
 - [JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation](https://github.com/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">
 - [MaxKappa/opensuse-leap-privesc-exploit](https://github.com/MaxKappa/opensuse-leap-privesc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaxKappa/opensuse-leap-privesc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaxKappa/opensuse-leap-privesc-exploit">
+- [karimelsheikh1/HTB-Pterodactyl-Writeup](https://github.com/karimelsheikh1/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Pterodactyl-Writeup">
+- [V0idW1re/HTB-Pterodactyl-Writeup](https://github.com/V0idW1re/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/V0idW1re/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/V0idW1re/HTB-Pterodactyl-Writeup">
+- [iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">
+- [Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn](https://github.com/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn">
 
 ---
 ## CVE-2025-60188 ()

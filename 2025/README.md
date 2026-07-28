@@ -6007,6 +6007,7 @@
 - [H3XploR/Exploit_CVE-2025-47812](https://github.com/H3XploR/Exploit_CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/H3XploR/Exploit_CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/H3XploR/Exploit_CVE-2025-47812">
 - [AmogelangMongwaketse/cs50-final-project](https://github.com/AmogelangMongwaketse/cs50-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/AmogelangMongwaketse/cs50-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/AmogelangMongwaketse/cs50-final-project">
 - [0xS4N4TG/CVE-2025-47812](https://github.com/0xS4N4TG/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xS4N4TG/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xS4N4TG/CVE-2025-47812">
+- [d3vn0mi/CVE-2025-471812-POC](https://github.com/d3vn0mi/CVE-2025-471812-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2025-471812-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2025-471812-POC">
 
 ---
 ## CVE-2025-47810 ()
@@ -9908,6 +9909,9 @@
 ## CVE-2025-21479 ()
 > 
 - [CamsShaft/SELinux-Permissive-Only-CVE-2025-21479](https://github.com/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">
+- [ma4the/omae-wa-cheese-da](https://github.com/ma4the/omae-wa-cheese-da)	<img alt="forks" src="https://img.shields.io/github/forks/ma4the/omae-wa-cheese-da">	<img alt="stars" src="https://img.shields.io/github/stars/ma4the/omae-wa-cheese-da">
+- [sarabpal-dev/cheese-cake](https://github.com/sarabpal-dev/cheese-cake)	<img alt="forks" src="https://img.shields.io/github/forks/sarabpal-dev/cheese-cake">	<img alt="stars" src="https://img.shields.io/github/stars/sarabpal-dev/cheese-cake">
+- [zhuowei/cheese](https://github.com/zhuowei/cheese)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/cheese">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/cheese">
 
 ---
 ## CVE-2025-21420 ()

@@ -436,6 +436,7 @@
 ## CVE-2026-65893 ()
 > 
 - [CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894](https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894)	<img alt="forks" src="https://img.shields.io/github/forks/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">	<img alt="stars" src="https://img.shields.io/github/stars/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894">
+- [ivmks74/IIITA-IoT-Security-Research](https://github.com/ivmks74/IIITA-IoT-Security-Research)	<img alt="forks" src="https://img.shields.io/github/forks/ivmks74/IIITA-IoT-Security-Research">	<img alt="stars" src="https://img.shields.io/github/stars/ivmks74/IIITA-IoT-Security-Research">
 
 ---
 ## CVE-2026-65761 ()
@@ -983,6 +984,7 @@
 - [GlendonNotGlen/certighost-cve-2026-54121-slides](https://github.com/GlendonNotGlen/certighost-cve-2026-54121-slides)	<img alt="forks" src="https://img.shields.io/github/forks/GlendonNotGlen/certighost-cve-2026-54121-slides">	<img alt="stars" src="https://img.shields.io/github/stars/GlendonNotGlen/certighost-cve-2026-54121-slides">
 - [marcgoam/CVE-2026-54121-CertiGhost](https://github.com/marcgoam/CVE-2026-54121-CertiGhost)	<img alt="forks" src="https://img.shields.io/github/forks/marcgoam/CVE-2026-54121-CertiGhost">	<img alt="stars" src="https://img.shields.io/github/stars/marcgoam/CVE-2026-54121-CertiGhost">
 - [ChPratik/CVE-2026-54121](https://github.com/ChPratik/CVE-2026-54121)	<img alt="forks" src="https://img.shields.io/github/forks/ChPratik/CVE-2026-54121">	<img alt="stars" src="https://img.shields.io/github/stars/ChPratik/CVE-2026-54121">
+- [mwnickerson/certighost-bof](https://github.com/mwnickerson/certighost-bof)	<img alt="forks" src="https://img.shields.io/github/forks/mwnickerson/certighost-bof">	<img alt="stars" src="https://img.shields.io/github/stars/mwnickerson/certighost-bof">
 
 ---
 ## CVE-2026-5411 ()
@@ -998,6 +1000,7 @@
 ## CVE-2026-53921 ()
 > 
 - [0xBlackash/CVE-2026-53921](https://github.com/0xBlackash/CVE-2026-53921)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-53921">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-53921">
+- [tc4dy/CVE-2026-53921-PoC-Exploit](https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-53921-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-53921-PoC-Exploit">
 
 ---
 ## CVE-2026-53913 ()

@@ -1080,6 +1080,11 @@
 - [izxci/CVE-2026-5411](https://github.com/izxci/CVE-2026-5411)	<img alt="forks" src="https://img.shields.io/github/forks/izxci/CVE-2026-5411">	<img alt="stars" src="https://img.shields.io/github/stars/izxci/CVE-2026-5411">
 
 ---
+## CVE-2026-54107 ()
+> 
+- [Pravin761/CVE-2026-54107](https://github.com/Pravin761/CVE-2026-54107)	<img alt="forks" src="https://img.shields.io/github/forks/Pravin761/CVE-2026-54107">	<img alt="stars" src="https://img.shields.io/github/stars/Pravin761/CVE-2026-54107">
+
+---
 ## CVE-2026-54088 ()
 > 
 - [Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc">
@@ -2240,6 +2245,11 @@
 ## CVE-2026-43865 ()
 > 
 - [oscerd/CVE-2026-43865](https://github.com/oscerd/CVE-2026-43865)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-43865">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-43865">
+
+---
+## CVE-2026-43813 ()
+> 
+- [EastArctica/CVE-2026-43813](https://github.com/EastArctica/CVE-2026-43813)	<img alt="forks" src="https://img.shields.io/github/forks/EastArctica/CVE-2026-43813">	<img alt="stars" src="https://img.shields.io/github/stars/EastArctica/CVE-2026-43813">
 
 ---
 ## CVE-2026-43735 ()
@@ -7269,6 +7279,7 @@
 - [remmons-r7/rapid7-CVE-2026-15409](https://github.com/remmons-r7/rapid7-CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/remmons-r7/rapid7-CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/remmons-r7/rapid7-CVE-2026-15409">
 - [0xBlackash/CVE-2026-15409](https://github.com/0xBlackash/CVE-2026-15409)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-15409">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-15409">
 - [tc4dy/CVE-2026-15409-15410-Framework](https://github.com/tc4dy/CVE-2026-15409-15410-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-15409-15410-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-15409-15410-Framework">
+- [MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check](https://github.com/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check)	<img alt="forks" src="https://img.shields.io/github/forks/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check">	<img alt="stars" src="https://img.shields.io/github/stars/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check">
 
 ---
 ## CVE-2026-1529 ()

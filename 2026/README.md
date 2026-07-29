@@ -491,6 +491,8 @@
 ## CVE-2026-66066 ()
 > 
 - [0xBlackash/CVE-2026-66066](https://github.com/0xBlackash/CVE-2026-66066)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-66066">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-66066">
+- [Zer0SumGam3/CVE-2026-66066-POC](https://github.com/Zer0SumGam3/CVE-2026-66066-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Zer0SumGam3/CVE-2026-66066-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Zer0SumGam3/CVE-2026-66066-POC">
+- [paveg/rails-activestorage-vips-audit](https://github.com/paveg/rails-activestorage-vips-audit)	<img alt="forks" src="https://img.shields.io/github/forks/paveg/rails-activestorage-vips-audit">	<img alt="stars" src="https://img.shields.io/github/stars/paveg/rails-activestorage-vips-audit">
 
 ---
 ## CVE-2026-66012 ()

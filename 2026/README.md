@@ -637,6 +637,7 @@
 > 
 - [HORKimhab/CVE-2026-61511](https://github.com/HORKimhab/CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-61511">
 - [puj790201-lab/cve-2026-61511](https://github.com/puj790201-lab/cve-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/puj790201-lab/cve-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/puj790201-lab/cve-2026-61511">
+- [codeb0ssx/Ultimate-CVE-2026-61511](https://github.com/codeb0ssx/Ultimate-CVE-2026-61511)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ssx/Ultimate-CVE-2026-61511">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ssx/Ultimate-CVE-2026-61511">
 
 ---
 ## CVE-2026-6145 ()
@@ -1261,6 +1262,11 @@
 ## CVE-2026-51564 ()
 > 
 - [1337Skid/CVE-2026-51564](https://github.com/1337Skid/CVE-2026-51564)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2026-51564">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2026-51564">
+
+---
+## CVE-2026-51302 ()
+> 
+- [extratao/CVE-2026-51302-PoC](https://github.com/extratao/CVE-2026-51302-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/extratao/CVE-2026-51302-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/extratao/CVE-2026-51302-PoC">
 
 ---
 ## CVE-2026-5118 ()

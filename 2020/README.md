@@ -3278,6 +3278,7 @@
 ## CVE-2020-24030 ()
 > 
 - [RedTeamBrasil/CVE-2020-24030](https://github.com/RedTeamBrasil/CVE-2020-24030)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24030">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24030">
+- [underprotection/CVE-2020-24030](https://github.com/underprotection/CVE-2020-24030)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24030">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24030">
 
 ---
 ## CVE-2020-24029 ()

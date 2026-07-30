@@ -7236,6 +7236,9 @@
 > 
 - [HORKimhab/CVE-2026-16723](https://github.com/HORKimhab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-16723">
 - [EQSTLab/CVE-2026-16723](https://github.com/EQSTLab/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-16723">
+- [Nowafen/CVE-2026-16723](https://github.com/Nowafen/CVE-2026-16723)	<img alt="forks" src="https://img.shields.io/github/forks/Nowafen/CVE-2026-16723">	<img alt="stars" src="https://img.shields.io/github/stars/Nowafen/CVE-2026-16723">
+- [why-success/fastjson-rce-lab](https://github.com/why-success/fastjson-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/why-success/fastjson-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/why-success/fastjson-rce-lab">
+- [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/fastjson-jsontype-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/fastjson-jsontype-rce-lab">
 
 ---
 ## CVE-2026-1668 ()
